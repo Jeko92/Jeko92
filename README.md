@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeko92
 - 👀 I’m interested in Application Development(Web)
-- 🌱 I’m currently learning HTML5, CSS3,JavaScript, React, Python, git, TYPO3-CMS
+- 💻📚 I’m currently learning HTML5, CSS3,JavaScript, React, Python, git, TYPO3-CMS
 
 
 <!---
